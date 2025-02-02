@@ -1,0 +1,2 @@
+subprocess-runner==1.0.0 
+pytest==7.3.1 
